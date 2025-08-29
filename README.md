@@ -4,7 +4,7 @@ Um **sistema de agendamento para petshop** interativo e responsivo, criado duran
 Permite agendar, visualizar e cancelar horários de atendimento para pets, organizados por períodos do dia (manhã, tarde e noite) com interface moderna e intuitiva.
 
 ---
-
+ 
 ## Visão Geral
 
 - **HTML5**: marcação semântica com `<header>`, `<main>`, `<section>`, `<form>`, `<fieldset>` e elementos de lista.  
